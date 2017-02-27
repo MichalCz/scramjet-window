@@ -1,0 +1,14 @@
+{
+  "name": "scramjet-movwin",
+  "version": "1.0.0",
+  "description": "Moving window caculations stream. Outputs a stream of calculation results whenever these change.\nContains moving average, moving weighted average, moving sum, moving top-n and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Signicode <open-source@signicode.com>",
+  "license": "GPL-3.0",
+  "peerDependencies": {
+    "scramjet": ">=2.0 <4.0"
+  }
+}
