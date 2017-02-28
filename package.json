@@ -1,8 +1,8 @@
 {
-  "name": "scramjet-movwin",
-  "version": "1.0.0",
+  "name": "movwin",
+  "version": "0.9.0",
   "description": "Moving window caculations stream. Outputs a stream of calculation results whenever these change.\nContains moving average, moving weighted average, moving sum, moving top-n and more",
-  "main": "index.js",
+  "main": "lib",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
