@@ -1,6 +1,6 @@
 {
   "name": "movwin",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "description": "Moving window caculations stream. Outputs a stream of calculation results whenever these change.\nContains moving average, moving weighted average, moving sum, moving top-n and more",
   "main": "lib",
   "scripts": {
