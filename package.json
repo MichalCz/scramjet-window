@@ -9,6 +9,12 @@
   "author": "Signicode <open-source@signicode.com>",
   "license": "GPL-3.0",
   "peerDependencies": {
-    "scramjet": ">=2.0 <4.0"
-  }
+    "scramjet": ">=4"
+  },
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-scramjet": "^3.0.0",
+    "scramjet": "^4.35.1"
+  },
+  "dependencies": {}
 }
