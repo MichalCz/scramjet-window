@@ -8,6 +8,9 @@
   },
   "author": "Signicode <open-source@signicode.com>",
   "license": "GPL-3.0",
+  "engines": {
+    "node": ">=10"
+  },
   "peerDependencies": {
     "scramjet": ">=4"
   },
